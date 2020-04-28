@@ -9,4 +9,4 @@ I got the trainig accuracy of 98% and validation accuracy of 96% approx.
 * Download Negative images of chest from Kaggle
 > https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-* RUN the Jupyter Notebook, covid-19.ipynb
+* RUN the Jupyter Notebook, (covid-19.ipynb)[https://github.com/dsc-sits/COVID-19-X-RAY-Images-Detection/blob/master/COVID_19.ipynb]
