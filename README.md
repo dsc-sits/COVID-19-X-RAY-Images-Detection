@@ -3,7 +3,9 @@
 I got the trainig accuracy of 98% and validation accuracy of 96% approx.
 [Try in Google Colab](https://colab.research.google.com/drive/1ujCMQvFJ0VxMZB3Ie8pn4mTvBNlnK7er)
 
+1. Positive on COVID-19 Test Image
 ![positive](https://github.com/dsc-sits/COVID-19-X-RAY-Images-Detection/blob/master/positive.png)
+2. Negative on COVID-19 Test Image
 ![negative](https://github.com/dsc-sits/COVID-19-X-RAY-Images-Detection/blob/master/negative.jpg)
 
 #### STEPS
